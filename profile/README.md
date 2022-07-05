@@ -11,3 +11,6 @@ The various researchers involved in SmartForest will contribute to the different
 | ------------- | ------------- |
 | [Johannes Rahlf](https://github.com/JohannesRahlf)  | [taperNO](https://github.com/SmartForest-no/taperNO)  |
 | [Stefano Puliti](https://github.com/stefp)  and [Saheba Bhatnagar](https://github.com/sabh92)| [wheelRuts_semanticSegmentation](https://github.com/SmartForest-no/wheelRuts_semanticSegmentation)  |
+
+
+[![Twitter URL](https://user-images.githubusercontent.com/5663984/177413806-9264bcbc-5dc9-466f-9d8f-53f92d1fcf88.png)](https://twitter.com/SmartForest_SFI)
