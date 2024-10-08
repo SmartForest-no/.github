@@ -16,6 +16,8 @@ The various researchers involved in SmartForest will contribute to the different
 |[Lennart Noordemeer](https://github.com/lennartnoordermeer) | [OptBuck](https://github.com/SmartForest-no/optBuck) |R |
 |[Binbin Xiang](https://github.com/bxiang233) | [ForAINet](https://github.com/bxiang233/ForAINet) |Python |
 |[Maciej Wielgosz](https://github.com/maciekwielgosz) | [SegmentAnyTree](https://github.com/SmartForest-no/SegmentAnyTree) |Python |
+|[Stefano Puliti](https://github.com/stefp) | [BranchPoseNet](https://github.com/stefp/BranchPoseNet) |Python |
+
 
 
 
