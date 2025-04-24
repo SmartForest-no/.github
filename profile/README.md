@@ -28,7 +28,6 @@ As a general rule, the latest one should be the best. However, ForAINet and Segm
 | ------------- | ------------- | ------------- |------------- |
 | [Mostafa Hoseini](https://github.com/orgs/SmartForest-no/people/mostafa-nibio)  | [RoadSens](https://github.com/mostafa-nibio/roadsens_feature_extraction_models)  | Python | [Hoseini et al. 2024](https://www.sciencedirect.com/science/article/pii/S0168169924011013)|
 
-https://github.com/mostafa-nibio/roadsens_feature_extraction_models
 ## Wood quality
 These include various deep learning methods for extraction of wood quality parameters
 
