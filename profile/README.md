@@ -23,6 +23,12 @@ As a general rule, the latest one should be the best. However, ForAINet and Segm
 | [Stefano Puliti](https://github.com/stefp)  and [Saheba Bhatnagar](https://github.com/sabh92)| [wheelRuts_semanticSegmentation](https://github.com/SmartForest-no/wheelRuts_semanticSegmentation)  | Python | [Bhatnagar et al. 2022](https://academic.oup.com/forestry/article/95/5/698/6627280)|
 |[Stefano Puliti](https://github.com/stefp) | [SmartForest_UAV_damage_detection](https://github.com/stefp/SmartForest_UAV_damage_detection) |Python | [Puliti and Astrup 2022](https://www.sciencedirect.com/science/article/pii/S1569843222001431)|
 
+# RGB road segmentation
+| Contributors  | Repository | Language | citation |
+| ------------- | ------------- | ------------- |------------- |
+| [Mostafa Hoseini](https://github.com/orgs/SmartForest-no/people/mostafa-nibio)  | [RoadSens](https://github.com/mostafa-nibio/roadsens_feature_extraction_models)  | Python | [Hoseini et al. 2024](https://www.sciencedirect.com/science/article/pii/S0168169924011013)|
+
+https://github.com/mostafa-nibio/roadsens_feature_extraction_models
 ## Wood quality
 These include various deep learning methods for extraction of wood quality parameters
 
